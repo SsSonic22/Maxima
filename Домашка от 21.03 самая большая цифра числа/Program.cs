@@ -1,21 +1,38 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine("Давай найдём самую большую цифру твоего числа");
 
-Console.WriteLine("Введи число: ");
-long num = long.Parse(Console.ReadLine());
-
-long maxima = 0;
-    
-while (num > 0) 
+namespace MaximaHomeWork
 {
-    long t = num % 10;
-    if (t > maxima)
+    class Lesson5
     {
-        maxima = t;
-    }
+        static void Main(string[] args)
+        {
 
-    num = num / 10;
+            Console.WriteLine("Давай найдём самую большую цифру твоего числа");
+
+            Console.WriteLine("Введи число: ");
+            long num = long.Parse(Console.ReadLine());
+
+            Console.WriteLine($"Вот эта {GetHighestFigure(num)}");
+            Console.ReadKey();
+        }
+
+        static long GetHighestFigure(long num)
+        {
+            long maxima = 0;
+
+            while (num > 0)
+            {
+                long t = num % 10;
+                if (t > maxima)
+                {
+                    maxima = t;
+                }
+
+                num = num / 10;
+            }
+
+            return maxima;
+        }
+    }
 }
-Console.WriteLine($"Вот эта {maxima}");
-Console.ReadKey();
