@@ -1,0 +1,15 @@
+C:\Users\ospvs\RiderProjects\Maxima\Пупупу\bin\Debug\net6.0\Пупупу.exe
+C:\Users\ospvs\RiderProjects\Maxima\Пупупу\bin\Debug\net6.0\Пупупу.deps.json
+C:\Users\ospvs\RiderProjects\Maxima\Пупупу\bin\Debug\net6.0\Пупупу.runtimeconfig.json
+C:\Users\ospvs\RiderProjects\Maxima\Пупупу\bin\Debug\net6.0\Пупупу.dll
+C:\Users\ospvs\RiderProjects\Maxima\Пупупу\bin\Debug\net6.0\Пупупу.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Пупупу\obj\Debug\net6.0\Пупупу.csproj.AssemblyReference.cache
+C:\Users\ospvs\RiderProjects\Maxima\Пупупу\obj\Debug\net6.0\Пупупу.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ospvs\RiderProjects\Maxima\Пупупу\obj\Debug\net6.0\Пупупу.AssemblyInfoInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Пупупу\obj\Debug\net6.0\Пупупу.AssemblyInfo.cs
+C:\Users\ospvs\RiderProjects\Maxima\Пупупу\obj\Debug\net6.0\Пупупу.csproj.CoreCompileInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Пупупу\obj\Debug\net6.0\Пупупу.dll
+C:\Users\ospvs\RiderProjects\Maxima\Пупупу\obj\Debug\net6.0\refint\Пупупу.dll
+C:\Users\ospvs\RiderProjects\Maxima\Пупупу\obj\Debug\net6.0\Пупупу.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Пупупу\obj\Debug\net6.0\Пупупу.genruntimeconfig.cache
+C:\Users\ospvs\RiderProjects\Maxima\Пупупу\obj\Debug\net6.0\ref\Пупупу.dll
