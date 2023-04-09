@@ -1,0 +1,12 @@
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 работа с классом Car\bin\Debug\net6.0\Домашка от 28.03 работа с классом Car.deps.json
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 работа с классом Car\bin\Debug\net6.0\Домашка от 28.03 работа с классом Car.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 работа с классом Car\bin\Debug\net6.0\Домашка от 28.03 работа с классом Car.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 работа с классом Car\obj\Debug\net6.0\Домашка от 28.03 работа с классом Car.csproj.AssemblyReference.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 работа с классом Car\obj\Debug\net6.0\Домашка от 28.03 работа с классом Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 работа с классом Car\obj\Debug\net6.0\Домашка от 28.03 работа с классом Car.AssemblyInfoInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 работа с классом Car\obj\Debug\net6.0\Домашка от 28.03 работа с классом Car.AssemblyInfo.cs
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 работа с классом Car\obj\Debug\net6.0\Домашка от 28.03 работа с классом Car.csproj.CoreCompileInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 работа с классом Car\obj\Debug\net6.0\Домашка от 28.03 работа с классом Car.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 работа с классом Car\obj\Debug\net6.0\refint\Домашка от 28.03 работа с классом Car.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 работа с классом Car\obj\Debug\net6.0\Домашка от 28.03 работа с классом Car.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 работа с классом Car\obj\Debug\net6.0\ref\Домашка от 28.03 работа с классом Car.dll
