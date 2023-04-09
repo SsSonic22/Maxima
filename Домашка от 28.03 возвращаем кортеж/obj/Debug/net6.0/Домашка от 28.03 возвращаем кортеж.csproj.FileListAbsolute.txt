@@ -1,0 +1,15 @@
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 возвращаем кортеж\bin\Debug\net6.0\Домашка от 28.03 возвращаем кортеж.exe
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 возвращаем кортеж\bin\Debug\net6.0\Домашка от 28.03 возвращаем кортеж.deps.json
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 возвращаем кортеж\bin\Debug\net6.0\Домашка от 28.03 возвращаем кортеж.runtimeconfig.json
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 возвращаем кортеж\bin\Debug\net6.0\Домашка от 28.03 возвращаем кортеж.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 возвращаем кортеж\bin\Debug\net6.0\Домашка от 28.03 возвращаем кортеж.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 возвращаем кортеж\obj\Debug\net6.0\Домашка от 28.03 возвращаем кортеж.csproj.AssemblyReference.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 возвращаем кортеж\obj\Debug\net6.0\Домашка от 28.03 возвращаем кортеж.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 возвращаем кортеж\obj\Debug\net6.0\Домашка от 28.03 возвращаем кортеж.AssemblyInfoInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 возвращаем кортеж\obj\Debug\net6.0\Домашка от 28.03 возвращаем кортеж.AssemblyInfo.cs
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 возвращаем кортеж\obj\Debug\net6.0\Домашка от 28.03 возвращаем кортеж.csproj.CoreCompileInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 возвращаем кортеж\obj\Debug\net6.0\Домашка от 28.03 возвращаем кортеж.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 возвращаем кортеж\obj\Debug\net6.0\refint\Домашка от 28.03 возвращаем кортеж.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 возвращаем кортеж\obj\Debug\net6.0\Домашка от 28.03 возвращаем кортеж.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 возвращаем кортеж\obj\Debug\net6.0\Домашка от 28.03 возвращаем кортеж.genruntimeconfig.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.03 возвращаем кортеж\obj\Debug\net6.0\ref\Домашка от 28.03 возвращаем кортеж.dll
