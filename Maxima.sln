@@ -28,6 +28,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Домашка от 28.03 �
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Домашка от 28.03  числа фибоначчи", "Домашка от 28.03  числа фибоначчи\Домашка от 28.03  числа фибоначчи.csproj", "{CE4232BF-9E14-4E99-8171-20776D2EE9BD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Домашка от 7.04 ", "Домашка от 7.04 ", "{8A27CFA4-4B52-4EF3-8718-F1D266C39BEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Домашка от 7.04 библиотека геометрических фигур", "Домашка от 7.04 библиотека геометрических фигур\Домашка от 7.04 библиотека геометрических фигур.csproj", "{0AB84A5B-6DFB-4752-89D2-5D338BCD0A32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Домашка от 7.04 вызовы", "Домашка от 7.04 вызовы\Домашка от 7.04 вызовы.csproj", "{14B375BE-EFBE-42CF-9AB1-F77671FA0FF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -46,6 +52,8 @@ Global
 		{FF48D0E6-983F-4011-B2F9-794830ECA6E7} = {524193A3-44F0-432C-8700-8670065AF808}
 		{2F65872D-1737-4D1B-98CE-B15118CBCB78} = {524193A3-44F0-432C-8700-8670065AF808}
 		{CE4232BF-9E14-4E99-8171-20776D2EE9BD} = {524193A3-44F0-432C-8700-8670065AF808}
+		{0AB84A5B-6DFB-4752-89D2-5D338BCD0A32} = {8A27CFA4-4B52-4EF3-8718-F1D266C39BEF}
+		{14B375BE-EFBE-42CF-9AB1-F77671FA0FF5} = {8A27CFA4-4B52-4EF3-8718-F1D266C39BEF}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{04088642-F0A0-4923-B165-58E5A3BE5EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -96,5 +104,13 @@ Global
 		{CE4232BF-9E14-4E99-8171-20776D2EE9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE4232BF-9E14-4E99-8171-20776D2EE9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE4232BF-9E14-4E99-8171-20776D2EE9BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB84A5B-6DFB-4752-89D2-5D338BCD0A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB84A5B-6DFB-4752-89D2-5D338BCD0A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB84A5B-6DFB-4752-89D2-5D338BCD0A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB84A5B-6DFB-4752-89D2-5D338BCD0A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B375BE-EFBE-42CF-9AB1-F77671FA0FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B375BE-EFBE-42CF-9AB1-F77671FA0FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B375BE-EFBE-42CF-9AB1-F77671FA0FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B375BE-EFBE-42CF-9AB1-F77671FA0FF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
