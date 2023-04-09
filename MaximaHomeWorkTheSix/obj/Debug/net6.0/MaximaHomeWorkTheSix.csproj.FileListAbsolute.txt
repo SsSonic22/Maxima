@@ -1,0 +1,12 @@
+C:\Users\ospvs\RiderProjects\Maxima\MaximaHomeWorkTheSix\bin\Debug\net6.0\MaximaHomeWorkTheSix.deps.json
+C:\Users\ospvs\RiderProjects\Maxima\MaximaHomeWorkTheSix\bin\Debug\net6.0\MaximaHomeWorkTheSix.dll
+C:\Users\ospvs\RiderProjects\Maxima\MaximaHomeWorkTheSix\bin\Debug\net6.0\MaximaHomeWorkTheSix.pdb
+C:\Users\ospvs\RiderProjects\Maxima\MaximaHomeWorkTheSix\obj\Debug\net6.0\MaximaHomeWorkTheSix.csproj.AssemblyReference.cache
+C:\Users\ospvs\RiderProjects\Maxima\MaximaHomeWorkTheSix\obj\Debug\net6.0\MaximaHomeWorkTheSix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ospvs\RiderProjects\Maxima\MaximaHomeWorkTheSix\obj\Debug\net6.0\MaximaHomeWorkTheSix.AssemblyInfoInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\MaximaHomeWorkTheSix\obj\Debug\net6.0\MaximaHomeWorkTheSix.AssemblyInfo.cs
+C:\Users\ospvs\RiderProjects\Maxima\MaximaHomeWorkTheSix\obj\Debug\net6.0\MaximaHomeWorkTheSix.csproj.CoreCompileInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\MaximaHomeWorkTheSix\obj\Debug\net6.0\MaximaHomeWorkTheSix.dll
+C:\Users\ospvs\RiderProjects\Maxima\MaximaHomeWorkTheSix\obj\Debug\net6.0\refint\MaximaHomeWorkTheSix.dll
+C:\Users\ospvs\RiderProjects\Maxima\MaximaHomeWorkTheSix\obj\Debug\net6.0\MaximaHomeWorkTheSix.pdb
+C:\Users\ospvs\RiderProjects\Maxima\MaximaHomeWorkTheSix\obj\Debug\net6.0\ref\MaximaHomeWorkTheSix.dll

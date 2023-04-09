@@ -1,0 +1,15 @@
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.03 кубы чисел\bin\Debug\net6.0\Домашка от 21.03 кубы чисел.exe
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.03 кубы чисел\bin\Debug\net6.0\Домашка от 21.03 кубы чисел.deps.json
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.03 кубы чисел\bin\Debug\net6.0\Домашка от 21.03 кубы чисел.runtimeconfig.json
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.03 кубы чисел\bin\Debug\net6.0\Домашка от 21.03 кубы чисел.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.03 кубы чисел\bin\Debug\net6.0\Домашка от 21.03 кубы чисел.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.03 кубы чисел\obj\Debug\net6.0\Домашка от 21.03 кубы чисел.csproj.AssemblyReference.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.03 кубы чисел\obj\Debug\net6.0\Домашка от 21.03 кубы чисел.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.03 кубы чисел\obj\Debug\net6.0\Домашка от 21.03 кубы чисел.AssemblyInfoInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.03 кубы чисел\obj\Debug\net6.0\Домашка от 21.03 кубы чисел.AssemblyInfo.cs
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.03 кубы чисел\obj\Debug\net6.0\Домашка от 21.03 кубы чисел.csproj.CoreCompileInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.03 кубы чисел\obj\Debug\net6.0\Домашка от 21.03 кубы чисел.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.03 кубы чисел\obj\Debug\net6.0\refint\Домашка от 21.03 кубы чисел.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.03 кубы чисел\obj\Debug\net6.0\Домашка от 21.03 кубы чисел.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.03 кубы чисел\obj\Debug\net6.0\Домашка от 21.03 кубы чисел.genruntimeconfig.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.03 кубы чисел\obj\Debug\net6.0\ref\Домашка от 21.03 кубы чисел.dll
