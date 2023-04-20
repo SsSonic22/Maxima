@@ -34,9 +34,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Домашка от 31.03 �
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Домашка от 31.03 про класс геометрических фигур", "Домашка от 31.03 про класс геометрических фигур\Домашка от 31.03 про класс геометрических фигур.csproj", "{E0177F9C-F409-4A7E-9411-BFFAFF36A346}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Домашка от 4.04", "Домашка от 4.04", "{973DF348-F652-41D4-80F0-1BE3A8F96184}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Домашка от 11.04 ", "Домашка от 11.04 ", "{3562A03D-B3A1-4D2A-8312-5757F30428F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Домашка от 4.04 класс пылесос", "Домашка от 4.04 класс пылесос\Домашка от 4.04 класс пылесос.csproj", "{7C6E7CC5-522A-4B46-961C-6EE913B7A143}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Домашка от 11.04 пЫлЕсОсЫ", "Домашка от 11.04 пЫлЕсОсЫ\Домашка от 11.04 пЫлЕсОсЫ.csproj", "{F5BF595C-F8F3-463B-909C-618FA33C69B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -58,7 +58,7 @@ Global
 		{F7BB4370-FB62-48A4-BB3C-7EBBD96F5942} = {524193A3-44F0-432C-8700-8670065AF808}
 		{F4F697EC-E38A-482C-ABF1-CAB15E115B74} = {4E148AEA-B28B-48AE-AAD7-7851C7CA7D62}
 		{E0177F9C-F409-4A7E-9411-BFFAFF36A346} = {4E148AEA-B28B-48AE-AAD7-7851C7CA7D62}
-		{7C6E7CC5-522A-4B46-961C-6EE913B7A143} = {973DF348-F652-41D4-80F0-1BE3A8F96184}
+		{F5BF595C-F8F3-463B-909C-618FA33C69B5} = {3562A03D-B3A1-4D2A-8312-5757F30428F2}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{04088642-F0A0-4923-B165-58E5A3BE5EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -117,9 +117,9 @@ Global
 		{E0177F9C-F409-4A7E-9411-BFFAFF36A346}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0177F9C-F409-4A7E-9411-BFFAFF36A346}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0177F9C-F409-4A7E-9411-BFFAFF36A346}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7C6E7CC5-522A-4B46-961C-6EE913B7A143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C6E7CC5-522A-4B46-961C-6EE913B7A143}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C6E7CC5-522A-4B46-961C-6EE913B7A143}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7C6E7CC5-522A-4B46-961C-6EE913B7A143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5BF595C-F8F3-463B-909C-618FA33C69B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BF595C-F8F3-463B-909C-618FA33C69B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BF595C-F8F3-463B-909C-618FA33C69B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BF595C-F8F3-463B-909C-618FA33C69B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
