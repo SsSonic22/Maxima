@@ -1,9 +1,15 @@
 namespace Домашка_от_11._04_пЫлЕсОсЫ;
 
 //Класс обычного пылесоса
-public class VacuumCleaner <T> where T : Vacuum <T>
+public class VacuumCleaner : Vacuum <string>
 {
     public string Model => GetModel();
+    public Color Color => GetColor<string>();
+
+    public Color GetColor<T>()
+    {
+        return Color.Black;
+    }
     public string GetModel()
     {
         return "VacuumCleaner";

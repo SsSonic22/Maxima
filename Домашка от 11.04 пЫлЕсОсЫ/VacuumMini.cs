@@ -1,7 +1,7 @@
 namespace Домашка_от_11._04_пЫлЕсОсЫ;
 
 //Пылесос мини
-public class VacuumMini <T> where T: Vacuum<T>
+public class VacuumMini : Vacuum<int>
 {
     public string Model => GetModel();
     
@@ -9,7 +9,12 @@ public class VacuumMini <T> where T: Vacuum<T>
     {
         return "VacuumMini";
     }
+    public Color Color => GetColor<int>();
 
+    public Color GetColor<T>()
+    {
+        return Color.Pink;
+    }
     public void StartCleaning(string room, int dust)
     {
         IfMaximumDust(dust);

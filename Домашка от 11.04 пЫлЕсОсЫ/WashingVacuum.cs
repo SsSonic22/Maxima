@@ -1,7 +1,7 @@
 namespace Домашка_от_11._04_пЫлЕсОсЫ;
 
 //Моющий пылесос
-public class WashingVacuum <T> where T: Vacuum <T>
+public class WashingVacuum : Vacuum <byte>
 {
     public string Model => GetModel();
 
@@ -9,7 +9,12 @@ public class WashingVacuum <T> where T: Vacuum <T>
     {
         return "WashingVacuum";
     }
+    public Color Color => GetColor<byte>();
 
+    public Color GetColor<T>()
+    {
+        return Color.Blue;
+    }
     public void StartCleaning(string room, int dust)
     {
         IfMaximumDust(dust);
