@@ -9,8 +9,10 @@ public abstract class Vacuum
         Console.WriteLine("Пылесос начал уборку");
     }
 
-    public virtual void StartCleaning(string room)
+    public virtual void StartCleaning(string room, int dust)
     {
         Console.WriteLine($"Пылесос начал уборку в зоне <{room}>");
     }
+
+    public virtual int MaximumDust { get;}
 }

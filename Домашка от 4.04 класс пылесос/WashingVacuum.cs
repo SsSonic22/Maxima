@@ -10,8 +10,21 @@ public class WashingVacuum : Vacuum
         return "WashingVacuum";
     }
 
-    public override void StartCleaning(string room)
+    public override void StartCleaning(string room, int dust)
     {
+        IfMaximumDust(dust);
         Console.WriteLine($"Моющий пылесос начал уборку в зоне <{room}>");
+    }
+    public override int MaximumDust => GetMaximumDust();
+
+    public int GetMaximumDust()
+    {
+        return 38;
+    }
+
+    public void  IfMaximumDust (int maxDust)
+    {
+        if (maxDust > 38)
+            throw new TooMuchDustException(string.Format("Can not go on cleaning, my tank is full!!"));
     }
 }
