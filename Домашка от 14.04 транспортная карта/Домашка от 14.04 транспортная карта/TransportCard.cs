@@ -14,22 +14,21 @@ class TransportCard
         _calculateCashBack = calculateCashBack;
     }
 
-    public event EventHandler TopUpEvent;
-    public void OnTopUpEvent()
+    public event EventHandler<OperationEventArgs> TopUpEvent;
+    public void OnTopUpEvent(decimal summ)
     {
-        TopUpEvent?.Invoke(this, EventArgs.Empty);
+        TopUpEvent?.Invoke(this, new OperationEventArgs(summ));
     }
-    public event EventHandler PaymentEvent;
-    public void OnPaymentEvent()
+    public event EventHandler<OperationEventArgs> PaymentEvent;
+    public void OnPaymentEvent(decimal summ)
     {
-        PaymentEvent?.Invoke(this, EventArgs.Empty);
+        PaymentEvent?.Invoke(this, new OperationEventArgs(summ));
     }
     public void TopUp(decimal summ)
     {
         Balance += summ;
-        _notify($"Пополнено на {summ} рублей");
         History.Add(new Operation(){Name = Operation.OperatioEnum.TopUp, Summ = summ});
-        OnTopUpEvent();
+        OnTopUpEvent(summ);
     }
     
     public void Payment(decimal summ, Predicate<decimal> possibleDebit)
@@ -40,11 +39,13 @@ class TransportCard
         {
             Balance -= summ;
             Balance = Balance + cashBack;
-            _notify($"Списано {summ} рублей");
             History.Add(new Operation(){Name = Operation.OperatioEnum.Payment, Summ = summ});
             if (cashBack > 0)
-                History.Add(new Operation(){Name = Operation.OperatioEnum.CashBack, Summ = cashBack});
-            OnPaymentEvent();
+            {
+                History.Add(new Operation() { Name = Operation.OperatioEnum.CashBack, Summ = cashBack });
+                _notify($"Начислен кэшбэк в размере {cashBack} рублей");
+            }
+            OnPaymentEvent(summ);
         }
         else
         {
