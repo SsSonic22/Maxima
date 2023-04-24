@@ -23,6 +23,7 @@ public partial class TransportCard
             }
             OnPaymentEvent(summ);
             Array.Resize(ref Rides, Rides.Length + 1);
+            NewBalance.Push(Balance);
         }
         else
         {

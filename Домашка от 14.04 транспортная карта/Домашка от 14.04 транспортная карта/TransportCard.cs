@@ -3,6 +3,8 @@ namespace Домашка_от_14._04_транспортная_карта;
 public partial class TransportCard
 {
     public decimal Balance { get; set; }
+    public Stack<decimal> NewBalance = new Stack<decimal>();
+
     /// <summary>
     /// История операций (пример работы со списком)
     /// </summary>
@@ -30,6 +32,7 @@ public partial class TransportCard
         Balance += summ;
         History.Add(new Operation(){Name = Operation.OperatioEnum.TopUp, Summ = summ});
         OnTopUpEvent(summ);
+        NewBalance.Push(Balance);
     }
     public void GetHistory()
     {
