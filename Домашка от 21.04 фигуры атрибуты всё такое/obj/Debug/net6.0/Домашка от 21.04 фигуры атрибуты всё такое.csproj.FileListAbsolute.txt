@@ -1,0 +1,15 @@
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.04 фигуры атрибуты всё такое\bin\Debug\net6.0\Домашка от 21.04 фигуры атрибуты всё такое.exe
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.04 фигуры атрибуты всё такое\bin\Debug\net6.0\Домашка от 21.04 фигуры атрибуты всё такое.deps.json
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.04 фигуры атрибуты всё такое\bin\Debug\net6.0\Домашка от 21.04 фигуры атрибуты всё такое.runtimeconfig.json
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.04 фигуры атрибуты всё такое\bin\Debug\net6.0\Домашка от 21.04 фигуры атрибуты всё такое.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.04 фигуры атрибуты всё такое\bin\Debug\net6.0\Домашка от 21.04 фигуры атрибуты всё такое.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.04 фигуры атрибуты всё такое\obj\Debug\net6.0\Домашка от 21.04 фигуры атрибуты всё такое.csproj.AssemblyReference.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.04 фигуры атрибуты всё такое\obj\Debug\net6.0\Домашка от 21.04 фигуры атрибуты всё такое.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.04 фигуры атрибуты всё такое\obj\Debug\net6.0\Домашка от 21.04 фигуры атрибуты всё такое.AssemblyInfoInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.04 фигуры атрибуты всё такое\obj\Debug\net6.0\Домашка от 21.04 фигуры атрибуты всё такое.AssemblyInfo.cs
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.04 фигуры атрибуты всё такое\obj\Debug\net6.0\Домашка от 21.04 фигуры атрибуты всё такое.csproj.CoreCompileInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.04 фигуры атрибуты всё такое\obj\Debug\net6.0\Домашка от 21.04 фигуры атрибуты всё такое.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.04 фигуры атрибуты всё такое\obj\Debug\net6.0\refint\Домашка от 21.04 фигуры атрибуты всё такое.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.04 фигуры атрибуты всё такое\obj\Debug\net6.0\Домашка от 21.04 фигуры атрибуты всё такое.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.04 фигуры атрибуты всё такое\obj\Debug\net6.0\Домашка от 21.04 фигуры атрибуты всё такое.genruntimeconfig.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 21.04 фигуры атрибуты всё такое\obj\Debug\net6.0\ref\Домашка от 21.04 фигуры атрибуты всё такое.dll
