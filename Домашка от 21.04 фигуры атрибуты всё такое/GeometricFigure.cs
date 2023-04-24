@@ -1,5 +1,6 @@
 namespace Домашка_от_31._03_про_класс_геометрических_фигур;
 
+[Figure(6, "Г")]
 public class GeometricFigure
 {
     private Type _type;
@@ -10,6 +11,7 @@ public class GeometricFigure
     
     private int _area;
     private double perimeter;
+    
 
     public GeometricFigure(Type type, int[] side, int sideCount, Color color, int[] angle)
     {
