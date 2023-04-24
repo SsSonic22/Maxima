@@ -3,10 +3,17 @@ namespace Домашка_от_14._04_транспортная_карта;
 public partial class TransportCard
 {
     public decimal Balance { get; set; }
+    /// <summary>
+    /// История операций (пример работы со списком)
+    /// </summary>
     public List<Operation> History;
     private readonly Func<decimal, decimal> _calculateCashBack;
     private Predicate<decimal> _possibleDebit;
     private Action<string> _notify;
+    /// <summary>
+    /// Массив показывающий количество поездок
+    /// </summary>
+    public int[] Rides = new int[0];
     public TransportCard(Action<string> notify, Func<decimal, decimal> calculateCashBack)
     {
         History = new List<Operation>();
@@ -31,5 +38,7 @@ public partial class TransportCard
         {
             Console.WriteLine($"{operation.Name} {operation.Summ}");
         }
+        //так как это транспортная карта, я делаю вывод, что каждое списание это одна поездка
+        Console.WriteLine($"Общее количество поездок:{Rides.Length}");
     }
 }

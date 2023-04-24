@@ -22,6 +22,7 @@ public partial class TransportCard
                 _notify($"Начислен кэшбэк в размере {cashBack} рублей");
             }
             OnPaymentEvent(summ);
+            Array.Resize(ref Rides, Rides.Length + 1);
         }
         else
         {
