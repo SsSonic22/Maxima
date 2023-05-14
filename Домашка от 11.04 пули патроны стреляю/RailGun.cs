@@ -4,13 +4,17 @@ public class RailGun
 {
     private int _heat;
 
-    public int Shot<T>() where T : RailGunBullet
+    public int Shot<T>() where T : RailGunBullet, new()
     {
-        _heat += RailGunBullet.Heat;
-        
+        T bullet = new T();
+        _heat += bullet.Heat;
+
         if (_heat > 100)
+        {
+            _heat = 0;
             throw new OverheatException("Railgun overheated");
-        
-        return RailGunBullet.Damage;
+        }
+
+        return bullet.Damage;
     }
 }
