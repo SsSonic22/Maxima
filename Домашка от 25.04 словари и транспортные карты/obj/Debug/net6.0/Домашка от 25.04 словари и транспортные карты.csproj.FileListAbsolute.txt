@@ -1,0 +1,15 @@
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 25.04 словари и транспортные карты\bin\Debug\net6.0\Домашка от 25.04 словари и транспортные карты.exe
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 25.04 словари и транспортные карты\bin\Debug\net6.0\Домашка от 25.04 словари и транспортные карты.deps.json
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 25.04 словари и транспортные карты\bin\Debug\net6.0\Домашка от 25.04 словари и транспортные карты.runtimeconfig.json
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 25.04 словари и транспортные карты\bin\Debug\net6.0\Домашка от 25.04 словари и транспортные карты.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 25.04 словари и транспортные карты\bin\Debug\net6.0\Домашка от 25.04 словари и транспортные карты.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 25.04 словари и транспортные карты\obj\Debug\net6.0\Домашка от 25.04 словари и транспортные карты.csproj.AssemblyReference.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 25.04 словари и транспортные карты\obj\Debug\net6.0\Домашка от 25.04 словари и транспортные карты.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 25.04 словари и транспортные карты\obj\Debug\net6.0\Домашка от 25.04 словари и транспортные карты.AssemblyInfoInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 25.04 словари и транспортные карты\obj\Debug\net6.0\Домашка от 25.04 словари и транспортные карты.AssemblyInfo.cs
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 25.04 словари и транспортные карты\obj\Debug\net6.0\Домашка от 25.04 словари и транспортные карты.csproj.CoreCompileInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 25.04 словари и транспортные карты\obj\Debug\net6.0\Домашка от 25.04 словари и транспортные карты.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 25.04 словари и транспортные карты\obj\Debug\net6.0\refint\Домашка от 25.04 словари и транспортные карты.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 25.04 словари и транспортные карты\obj\Debug\net6.0\Домашка от 25.04 словари и транспортные карты.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 25.04 словари и транспортные карты\obj\Debug\net6.0\Домашка от 25.04 словари и транспортные карты.genruntimeconfig.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 25.04 словари и транспортные карты\obj\Debug\net6.0\ref\Домашка от 25.04 словари и транспортные карты.dll
