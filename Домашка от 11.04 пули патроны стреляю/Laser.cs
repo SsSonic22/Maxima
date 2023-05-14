@@ -1,13 +1,13 @@
 namespace Домашка_от_11._04_пули_патроны_стреляю;
 
-public class Plasma : RailGunBullet
+public class Laser : RailGunBullet
 {
     public int Heat { get; }
     public int Damage { get; }
-
-    public Plasma()
+    
+    public Laser()
     {
-        Heat   = 25;
-        Damage = 30;
+        Heat   = 30;
+        Damage = 50;
     }
 }
