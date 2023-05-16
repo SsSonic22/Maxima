@@ -1,0 +1,15 @@
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.04 раз\bin\Debug\net6.0\Домашка от 28.04 раз.exe
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.04 раз\bin\Debug\net6.0\Домашка от 28.04 раз.deps.json
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.04 раз\bin\Debug\net6.0\Домашка от 28.04 раз.runtimeconfig.json
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.04 раз\bin\Debug\net6.0\Домашка от 28.04 раз.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.04 раз\bin\Debug\net6.0\Домашка от 28.04 раз.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.04 раз\obj\Debug\net6.0\Домашка от 28.04 раз.csproj.AssemblyReference.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.04 раз\obj\Debug\net6.0\Домашка от 28.04 раз.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.04 раз\obj\Debug\net6.0\Домашка от 28.04 раз.AssemblyInfoInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.04 раз\obj\Debug\net6.0\Домашка от 28.04 раз.AssemblyInfo.cs
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.04 раз\obj\Debug\net6.0\Домашка от 28.04 раз.csproj.CoreCompileInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.04 раз\obj\Debug\net6.0\Домашка от 28.04 раз.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.04 раз\obj\Debug\net6.0\refint\Домашка от 28.04 раз.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.04 раз\obj\Debug\net6.0\Домашка от 28.04 раз.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.04 раз\obj\Debug\net6.0\Домашка от 28.04 раз.genruntimeconfig.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 28.04 раз\obj\Debug\net6.0\ref\Домашка от 28.04 раз.dll

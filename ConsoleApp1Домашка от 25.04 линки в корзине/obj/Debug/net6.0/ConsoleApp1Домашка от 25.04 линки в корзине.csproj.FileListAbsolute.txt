@@ -1,0 +1,15 @@
+C:\Users\ospvs\RiderProjects\Maxima\ConsoleApp1Домашка от 25.04 линки в корзине\obj\Debug\net6.0\ConsoleApp1Домашка от 25.04 линки в корзине.csproj.AssemblyReference.cache
+C:\Users\ospvs\RiderProjects\Maxima\ConsoleApp1Домашка от 25.04 линки в корзине\obj\Debug\net6.0\ConsoleApp1Домашка от 25.04 линки в корзине.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ospvs\RiderProjects\Maxima\ConsoleApp1Домашка от 25.04 линки в корзине\obj\Debug\net6.0\ConsoleApp1Домашка от 25.04 линки в корзине.AssemblyInfoInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\ConsoleApp1Домашка от 25.04 линки в корзине\obj\Debug\net6.0\ConsoleApp1Домашка от 25.04 линки в корзине.AssemblyInfo.cs
+C:\Users\ospvs\RiderProjects\Maxima\ConsoleApp1Домашка от 25.04 линки в корзине\obj\Debug\net6.0\ConsoleApp1Домашка от 25.04 линки в корзине.csproj.CoreCompileInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\ConsoleApp1Домашка от 25.04 линки в корзине\bin\Debug\net6.0\ConsoleApp1Домашка от 25.04 линки в корзине.exe
+C:\Users\ospvs\RiderProjects\Maxima\ConsoleApp1Домашка от 25.04 линки в корзине\bin\Debug\net6.0\ConsoleApp1Домашка от 25.04 линки в корзине.deps.json
+C:\Users\ospvs\RiderProjects\Maxima\ConsoleApp1Домашка от 25.04 линки в корзине\bin\Debug\net6.0\ConsoleApp1Домашка от 25.04 линки в корзине.runtimeconfig.json
+C:\Users\ospvs\RiderProjects\Maxima\ConsoleApp1Домашка от 25.04 линки в корзине\bin\Debug\net6.0\ConsoleApp1Домашка от 25.04 линки в корзине.dll
+C:\Users\ospvs\RiderProjects\Maxima\ConsoleApp1Домашка от 25.04 линки в корзине\bin\Debug\net6.0\ConsoleApp1Домашка от 25.04 линки в корзине.pdb
+C:\Users\ospvs\RiderProjects\Maxima\ConsoleApp1Домашка от 25.04 линки в корзине\obj\Debug\net6.0\ConsoleApp1Домашка от 25.04 линки в корзине.dll
+C:\Users\ospvs\RiderProjects\Maxima\ConsoleApp1Домашка от 25.04 линки в корзине\obj\Debug\net6.0\refint\ConsoleApp1Домашка от 25.04 линки в корзине.dll
+C:\Users\ospvs\RiderProjects\Maxima\ConsoleApp1Домашка от 25.04 линки в корзине\obj\Debug\net6.0\ConsoleApp1Домашка от 25.04 линки в корзине.pdb
+C:\Users\ospvs\RiderProjects\Maxima\ConsoleApp1Домашка от 25.04 линки в корзине\obj\Debug\net6.0\ConsoleApp1Домашка от 25.04 линки в корзине.genruntimeconfig.cache
+C:\Users\ospvs\RiderProjects\Maxima\ConsoleApp1Домашка от 25.04 линки в корзине\obj\Debug\net6.0\ref\ConsoleApp1Домашка от 25.04 линки в корзине.dll
