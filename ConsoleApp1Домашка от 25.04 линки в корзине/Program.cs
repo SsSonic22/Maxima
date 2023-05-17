@@ -17,12 +17,12 @@ class Program
         var mustard = new Product(127, "mustard");
         var coffee = new Product(479, "coffee");
         
-        var card1 = new ProductCard(new List<Product>() { dishSoap, apple, coffee, milk});
+        var card1 = new ProductCard(new List<Product>() { dishSoap, apple, coffee, milk });
         var card2 = new ProductCard(new List<Product>() { carrot, eggs, beef, gum, wine, dishSoap });
-        var card3 = new ProductCard(new List<Product>() { beef, sourCream, mustard, milk, dishSoap});
+        var card3 = new ProductCard(new List<Product>() { beef, sourCream, mustard, milk, dishSoap });
         var card4 = new ProductCard(new List<Product>() { gum, apple, coffee, eggs, wine, wine });
-        var card5 = new ProductCard(new List<Product>() { sourCream, carrot, apple});
-        var card6 = new ProductCard(new List<Product>() { mustard, dishSoap, sourCream});
+        var card5 = new ProductCard(new List<Product>() { sourCream, carrot, apple });
+        var card6 = new ProductCard(new List<Product>() { mustard, dishSoap, sourCream });
 
         var listOfCards = new List<ProductCard>() { card1, card2, card3, card5, card4, card6 };
 
