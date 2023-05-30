@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ospvs\\RiderProjects\\Maxima\\ConsoleApp1Домашка от 25.04 линки в корзине\\ConsoleApp1Домашка от 25.04 линки в корзине.csproj",
-      "projectName": "ConsoleApp1Домашка от 25.04 линки в корзине",
-      "projectPath": "C:\\Users\\ospvs\\RiderProjects\\Maxima\\ConsoleApp1Домашка от 25.04 линки в корзине\\ConsoleApp1Домашка от 25.04 линки в корзине.csproj",
+      "projectUniqueName": "C:\\Users\\ospvs\\RiderProjects\\Maxima\\Домашка от 19.05 корзины-потоки\\Домашка от 19.05 корзины-потоки.csproj",
+      "projectName": "Домашка от 19.05 корзины-потоки",
+      "projectPath": "C:\\Users\\ospvs\\RiderProjects\\Maxima\\Домашка от 19.05 корзины-потоки\\Домашка от 19.05 корзины-потоки.csproj",
       "packagesPath": "C:\\Users\\ospvs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ospvs\\RiderProjects\\Maxima\\ConsoleApp1Домашка от 25.04 линки в корзине\\obj\\",
+      "outputPath": "C:\\Users\\ospvs\\RiderProjects\\Maxima\\Домашка от 19.05 корзины-потоки\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
