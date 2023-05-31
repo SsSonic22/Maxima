@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Домашк аот 23.05 транспортные карты и потоки/1.0.0": {
+        "runtime": {
+          "Домашк аот 23.05 транспортные карты и потоки.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Домашк аот 23.05 транспортные карты и потоки/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
