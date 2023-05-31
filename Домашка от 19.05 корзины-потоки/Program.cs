@@ -1,4 +1,8 @@
-﻿namespace ConsoleApp1Домашка_от_25._04_линки_в_корзине;
+﻿using System;
+using System.Collections.Generic;
+using System.Threading;
+
+namespace ConsoleApp1Домашка_от_25._04_линки_в_корзине;
 using System.Linq;
 
 class Program
