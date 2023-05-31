@@ -29,7 +29,7 @@ class Program
         // myCard.TopUpEvent += myCardOnTopUpEvent(myCard);
         // myCard.PaymentEvent += myCardOnPaymentEvent(myCard);
         
-        var thread1 = new Thread(o =>
+        var task1 = new Thread(o =>
         {
             myCard.TopUp(1000);
             myCard.Payment(60, 
@@ -66,7 +66,7 @@ class Program
             Console.WriteLine($"Ваш баланс: {myCard.NewBalance.Pop()}");
         });
 
-        var thread2 = new Thread(o =>
+        var task2 = new Thread(o =>
         {
             myCard.TopUp(1000);
             myCard.Payment(55, 
@@ -110,8 +110,8 @@ class Program
             Console.WriteLine($"Ваш баланс: {myCard.NewBalance.Pop()}");
         });
         
-        thread1.Start();
-        thread2.Start();
+        task1.Start();
+        task2.Start();
         
         // myCard.TopUp(1000);
         // myCard.Payment(55, 
