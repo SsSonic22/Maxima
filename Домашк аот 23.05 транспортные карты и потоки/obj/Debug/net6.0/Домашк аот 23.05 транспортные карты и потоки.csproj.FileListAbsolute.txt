@@ -1,0 +1,15 @@
+C:\Users\ospvs\RiderProjects\Maxima\Домашк аот 23.05 транспортные карты и потоки\bin\Debug\net6.0\Домашк аот 23.05 транспортные карты и потоки.exe
+C:\Users\ospvs\RiderProjects\Maxima\Домашк аот 23.05 транспортные карты и потоки\bin\Debug\net6.0\Домашк аот 23.05 транспортные карты и потоки.deps.json
+C:\Users\ospvs\RiderProjects\Maxima\Домашк аот 23.05 транспортные карты и потоки\bin\Debug\net6.0\Домашк аот 23.05 транспортные карты и потоки.runtimeconfig.json
+C:\Users\ospvs\RiderProjects\Maxima\Домашк аот 23.05 транспортные карты и потоки\bin\Debug\net6.0\Домашк аот 23.05 транспортные карты и потоки.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашк аот 23.05 транспортные карты и потоки\bin\Debug\net6.0\Домашк аот 23.05 транспортные карты и потоки.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Домашк аот 23.05 транспортные карты и потоки\obj\Debug\net6.0\Домашк аот 23.05 транспортные карты и потоки.csproj.AssemblyReference.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашк аот 23.05 транспортные карты и потоки\obj\Debug\net6.0\Домашк аот 23.05 транспортные карты и потоки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ospvs\RiderProjects\Maxima\Домашк аот 23.05 транспортные карты и потоки\obj\Debug\net6.0\Домашк аот 23.05 транспортные карты и потоки.AssemblyInfoInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашк аот 23.05 транспортные карты и потоки\obj\Debug\net6.0\Домашк аот 23.05 транспортные карты и потоки.AssemblyInfo.cs
+C:\Users\ospvs\RiderProjects\Maxima\Домашк аот 23.05 транспортные карты и потоки\obj\Debug\net6.0\Домашк аот 23.05 транспортные карты и потоки.csproj.CoreCompileInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашк аот 23.05 транспортные карты и потоки\obj\Debug\net6.0\Домашк аот 23.05 транспортные карты и потоки.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашк аот 23.05 транспортные карты и потоки\obj\Debug\net6.0\refint\Домашк аот 23.05 транспортные карты и потоки.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашк аот 23.05 транспортные карты и потоки\obj\Debug\net6.0\Домашк аот 23.05 транспортные карты и потоки.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Домашк аот 23.05 транспортные карты и потоки\obj\Debug\net6.0\Домашк аот 23.05 транспортные карты и потоки.genruntimeconfig.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашк аот 23.05 транспортные карты и потоки\obj\Debug\net6.0\ref\Домашк аот 23.05 транспортные карты и потоки.dll

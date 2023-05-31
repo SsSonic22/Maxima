@@ -1,0 +1,15 @@
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 19.05 корзины-потоки\bin\Debug\net6.0\Домашка от 19.05 корзины-потоки.exe
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 19.05 корзины-потоки\bin\Debug\net6.0\Домашка от 19.05 корзины-потоки.deps.json
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 19.05 корзины-потоки\bin\Debug\net6.0\Домашка от 19.05 корзины-потоки.runtimeconfig.json
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 19.05 корзины-потоки\bin\Debug\net6.0\Домашка от 19.05 корзины-потоки.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 19.05 корзины-потоки\bin\Debug\net6.0\Домашка от 19.05 корзины-потоки.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 19.05 корзины-потоки\obj\Debug\net6.0\Домашка от 19.05 корзины-потоки.csproj.AssemblyReference.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 19.05 корзины-потоки\obj\Debug\net6.0\Домашка от 19.05 корзины-потоки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 19.05 корзины-потоки\obj\Debug\net6.0\Домашка от 19.05 корзины-потоки.AssemblyInfoInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 19.05 корзины-потоки\obj\Debug\net6.0\Домашка от 19.05 корзины-потоки.AssemblyInfo.cs
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 19.05 корзины-потоки\obj\Debug\net6.0\Домашка от 19.05 корзины-потоки.csproj.CoreCompileInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 19.05 корзины-потоки\obj\Debug\net6.0\Домашка от 19.05 корзины-потоки.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 19.05 корзины-потоки\obj\Debug\net6.0\refint\Домашка от 19.05 корзины-потоки.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 19.05 корзины-потоки\obj\Debug\net6.0\Домашка от 19.05 корзины-потоки.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 19.05 корзины-потоки\obj\Debug\net6.0\Домашка от 19.05 корзины-потоки.genruntimeconfig.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 19.05 корзины-потоки\obj\Debug\net6.0\ref\Домашка от 19.05 корзины-потоки.dll
