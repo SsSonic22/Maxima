@@ -1,0 +1,15 @@
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 26.05 таски татаски\bin\Debug\net6.0\Домашка от 26.05 таски татаски.exe
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 26.05 таски татаски\bin\Debug\net6.0\Домашка от 26.05 таски татаски.deps.json
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 26.05 таски татаски\bin\Debug\net6.0\Домашка от 26.05 таски татаски.runtimeconfig.json
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 26.05 таски татаски\bin\Debug\net6.0\Домашка от 26.05 таски татаски.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 26.05 таски татаски\bin\Debug\net6.0\Домашка от 26.05 таски татаски.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 26.05 таски татаски\obj\Debug\net6.0\Домашка от 26.05 таски татаски.csproj.AssemblyReference.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 26.05 таски татаски\obj\Debug\net6.0\Домашка от 26.05 таски татаски.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 26.05 таски татаски\obj\Debug\net6.0\Домашка от 26.05 таски татаски.AssemblyInfoInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 26.05 таски татаски\obj\Debug\net6.0\Домашка от 26.05 таски татаски.AssemblyInfo.cs
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 26.05 таски татаски\obj\Debug\net6.0\Домашка от 26.05 таски татаски.csproj.CoreCompileInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 26.05 таски татаски\obj\Debug\net6.0\Домашка от 26.05 таски татаски.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 26.05 таски татаски\obj\Debug\net6.0\refint\Домашка от 26.05 таски татаски.dll
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 26.05 таски татаски\obj\Debug\net6.0\Домашка от 26.05 таски татаски.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 26.05 таски татаски\obj\Debug\net6.0\Домашка от 26.05 таски татаски.genruntimeconfig.cache
+C:\Users\ospvs\RiderProjects\Maxima\Домашка от 26.05 таски татаски\obj\Debug\net6.0\ref\Домашка от 26.05 таски татаски.dll

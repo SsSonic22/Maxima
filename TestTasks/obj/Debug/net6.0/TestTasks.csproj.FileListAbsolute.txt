@@ -1,0 +1,15 @@
+C:\Users\ospvs\RiderProjects\Maxima\TestTasks\bin\Debug\net6.0\TestTasks.exe
+C:\Users\ospvs\RiderProjects\Maxima\TestTasks\bin\Debug\net6.0\TestTasks.deps.json
+C:\Users\ospvs\RiderProjects\Maxima\TestTasks\bin\Debug\net6.0\TestTasks.runtimeconfig.json
+C:\Users\ospvs\RiderProjects\Maxima\TestTasks\bin\Debug\net6.0\TestTasks.dll
+C:\Users\ospvs\RiderProjects\Maxima\TestTasks\bin\Debug\net6.0\TestTasks.pdb
+C:\Users\ospvs\RiderProjects\Maxima\TestTasks\obj\Debug\net6.0\TestTasks.csproj.AssemblyReference.cache
+C:\Users\ospvs\RiderProjects\Maxima\TestTasks\obj\Debug\net6.0\TestTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ospvs\RiderProjects\Maxima\TestTasks\obj\Debug\net6.0\TestTasks.AssemblyInfoInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\TestTasks\obj\Debug\net6.0\TestTasks.AssemblyInfo.cs
+C:\Users\ospvs\RiderProjects\Maxima\TestTasks\obj\Debug\net6.0\TestTasks.csproj.CoreCompileInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\TestTasks\obj\Debug\net6.0\TestTasks.dll
+C:\Users\ospvs\RiderProjects\Maxima\TestTasks\obj\Debug\net6.0\refint\TestTasks.dll
+C:\Users\ospvs\RiderProjects\Maxima\TestTasks\obj\Debug\net6.0\TestTasks.pdb
+C:\Users\ospvs\RiderProjects\Maxima\TestTasks\obj\Debug\net6.0\TestTasks.genruntimeconfig.cache
+C:\Users\ospvs\RiderProjects\Maxima\TestTasks\obj\Debug\net6.0\ref\TestTasks.dll
