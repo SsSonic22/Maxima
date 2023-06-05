@@ -1,0 +1,15 @@
+C:\Users\ospvs\RiderProjects\Maxima\Переучиваю тему тасок\bin\Debug\net6.0\Переучиваю тему тасок.exe
+C:\Users\ospvs\RiderProjects\Maxima\Переучиваю тему тасок\bin\Debug\net6.0\Переучиваю тему тасок.deps.json
+C:\Users\ospvs\RiderProjects\Maxima\Переучиваю тему тасок\bin\Debug\net6.0\Переучиваю тему тасок.runtimeconfig.json
+C:\Users\ospvs\RiderProjects\Maxima\Переучиваю тему тасок\bin\Debug\net6.0\Переучиваю тему тасок.dll
+C:\Users\ospvs\RiderProjects\Maxima\Переучиваю тему тасок\bin\Debug\net6.0\Переучиваю тему тасок.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Переучиваю тему тасок\obj\Debug\net6.0\Переучиваю тему тасок.csproj.AssemblyReference.cache
+C:\Users\ospvs\RiderProjects\Maxima\Переучиваю тему тасок\obj\Debug\net6.0\Переучиваю тему тасок.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ospvs\RiderProjects\Maxima\Переучиваю тему тасок\obj\Debug\net6.0\Переучиваю тему тасок.AssemblyInfoInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Переучиваю тему тасок\obj\Debug\net6.0\Переучиваю тему тасок.AssemblyInfo.cs
+C:\Users\ospvs\RiderProjects\Maxima\Переучиваю тему тасок\obj\Debug\net6.0\Переучиваю тему тасок.csproj.CoreCompileInputs.cache
+C:\Users\ospvs\RiderProjects\Maxima\Переучиваю тему тасок\obj\Debug\net6.0\Переучиваю тему тасок.dll
+C:\Users\ospvs\RiderProjects\Maxima\Переучиваю тему тасок\obj\Debug\net6.0\refint\Переучиваю тему тасок.dll
+C:\Users\ospvs\RiderProjects\Maxima\Переучиваю тему тасок\obj\Debug\net6.0\Переучиваю тему тасок.pdb
+C:\Users\ospvs\RiderProjects\Maxima\Переучиваю тему тасок\obj\Debug\net6.0\Переучиваю тему тасок.genruntimeconfig.cache
+C:\Users\ospvs\RiderProjects\Maxima\Переучиваю тему тасок\obj\Debug\net6.0\ref\Переучиваю тему тасок.dll
