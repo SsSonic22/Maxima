@@ -1,4 +1,8 @@
-﻿namespace ConsoleApp1Домашка_от_25._04_линки_в_корзине;
+﻿using System;
+using System.Collections.Generic;
+using System.Threading;
+
+namespace ConsoleApp1Домашка_от_25._04_линки_в_корзине;
 using System.Linq;
 
 class Program
@@ -29,8 +33,6 @@ class Program
         decimal wholeSum = 0;
         decimal sum = 0;
         
-        // Потоков столько, сколько и корзин, сумма в итоге верная, но потоки работают не параллельно, а один за другим
-        // я не знаю, как сделать по-другому((((
         
         AutoResetEvent flag = new AutoResetEvent(false);
         List<Thread> Threads = new List<Thread>();
@@ -44,9 +46,10 @@ class Program
             });
             Threads.Add(thread);
             thread.Start();
-            if (WaitHandle.WaitAll(new[] { flag }, TimeSpan.FromSeconds(1)))
-                continue;
         }
+
+        WaitHandle.WaitAll(new[] { flag }, TimeSpan.FromSeconds(1));
+
         Console.WriteLine($"Result: {sum}");
         
         // // выбрать такие корзины, в которых сумма всех продуктов больше 100
