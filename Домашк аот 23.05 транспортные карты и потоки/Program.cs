@@ -35,31 +35,23 @@ class Program
             myCard.Payment(60, 
                 summ =>
                 {
-                    if (summ > myCard.Balance)
-                        return false;
-                    return true;
+                    return PossibleDebit(summ, myCard);
                 });
             myCard.GetHistory();
             myCard.Payment(10, 
                 summ =>
                 {
-                    if (summ > myCard.Balance)
-                        return false;
-                    return true;
+                    return PossibleDebit(summ, myCard);
                 });
             myCard.Payment(300, 
                 summ =>
                 {
-                    if (summ > myCard.Balance)
-                        return false;
-                    return true;
+                    return PossibleDebit(summ, myCard);
                 });
             myCard.Payment(15, 
                 summ =>
                 {
-                    if (summ > myCard.Balance)
-                        return false;
-                    return true;
+                    return PossibleDebit(summ, myCard);
                 });
             myCard.TopUp(500);
             myCard.GetHistory();
@@ -72,38 +64,28 @@ class Program
             myCard.Payment(55, 
                 summ =>
                 {
-                    if (summ > myCard.Balance)
-                        return false;
-                    return true;
+                    return PossibleDebit(summ, myCard);
                 });
             myCard.Payment(25, 
                 summ =>
                 {
-                    if (summ > myCard.Balance)
-                        return false;
-                    return true;
+                    return PossibleDebit(summ, myCard);
                 });
             myCard.Payment(150, 
                 summ =>
                 {
-                    if (summ > myCard.Balance)
-                        return false;
-                    return true;
+                    return PossibleDebit(summ, myCard);
                 });
             myCard.Payment(70, 
                 summ =>
                 {
-                    if (summ > myCard.Balance)
-                        return false;
-                    return true;
+                    return PossibleDebit(summ, myCard);
                 });
             myCard.GetHistory();
             myCard.Payment(60, 
                 summ =>
                 {
-                    if (summ > myCard.Balance)
-                        return false;
-                    return true;
+                    return PossibleDebit(summ, myCard);
                 });
 
             myCard.GetHistory();
@@ -175,12 +157,19 @@ class Program
         return cashBack;
     }
 
-    public static void ShowCashBack(TransportCard myCard)
+    public static void ShowCashBack(TransportCard card)
     {
-        var cashBack = myCard.History.Where(op => op.Name == Operation.OperatioEnum.CashBack);
+        var cashBack = card.History.Where(op => op.Name == Operation.OperatioType.CashBack);
         decimal cashBackCount = cashBack.Count();
         decimal cashBackSumm = cashBack.Sum(csh => csh.Summ);
         
         Console.WriteLine($"Кешбэк был начислен {cashBackCount} раз, общая сумма кешбэка {cashBackSumm}");
+    }
+
+    public static bool PossibleDebit(decimal summ, TransportCard card)
+    {
+        if (summ > card.Balance)
+            return false;
+        return true;
     }
 }

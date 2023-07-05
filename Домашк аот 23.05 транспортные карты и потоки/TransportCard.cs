@@ -17,7 +17,7 @@ public partial class TransportCard
     /// <summary>
     /// Массив показывающий количество поездок
     /// </summary>
-    public int[] Rides = new int[0];
+    public int Rides;
     public TransportCard(Action<string> notify, Func<decimal, decimal> calculateCashBack)
     {
         History = new List<Operation>();
@@ -34,7 +34,7 @@ public partial class TransportCard
         lock (_sync)
         {
             Balance += summ;
-            History.Add(new Operation() { Name = Operation.OperatioEnum.TopUp, Summ = summ });
+            History.Add(new Operation() { Name = Operation.OperatioType.TopUp, Summ = summ });
             OnTopUpEvent(summ);
             NewBalance.Push(Balance);
         }
@@ -51,7 +51,7 @@ public partial class TransportCard
             }
 
             //так как это транспортная карта, я делаю вывод, что каждое списание это одна поездка
-            Console.WriteLine($"Общее количество поездок:{Rides.Length}");
+            Console.WriteLine($"Общее количество поездок:{Rides}");
         }
     }
 

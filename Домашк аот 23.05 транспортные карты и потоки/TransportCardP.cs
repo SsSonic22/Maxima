@@ -17,15 +17,15 @@ public partial class TransportCard
             {
                 Balance -= summ;
                 Balance = Balance + cashBack;
-                History.Add(new Operation() { Name = Operation.OperatioEnum.Payment, Summ = summ });
+                History.Add(new Operation() { Name = Operation.OperatioType.Payment, Summ = summ });
                 if (cashBack > 0)
                 {
-                    History.Add(new Operation() { Name = Operation.OperatioEnum.CashBack, Summ = cashBack });
+                    History.Add(new Operation() { Name = Operation.OperatioType.CashBack, Summ = cashBack });
                     _notify($"Начислен кэшбэк в размере {cashBack} рублей");
                 }
 
                 OnPaymentEvent(summ);
-                Array.Resize(ref Rides, Rides.Length + 1);
+                Rides++;
                 NewBalance.Push(Balance);
             }
             else
