@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Домашка от 19.05 корзины-потоки/1.0.0": {
+        "runtime": {
+          "Домашка от 19.05 корзины-потоки.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Домашка от 19.05 корзины-потоки/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
