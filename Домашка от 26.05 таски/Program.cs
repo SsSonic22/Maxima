@@ -2,101 +2,102 @@
 
 namespace Домашка_от_26._05_таски;
 
+class Indexer
+{
+    public Indexer()
+    {
+        _index = 0;
+    }
+    public int Index
+    {
+        get => _index;
+        set => _index = value;
+    }
+    private static int _index = 0;
+}
+
 class Program
 {
     private static object _sync = new object();
-    static decimal[] numbers = { 4, 7, 8, 20, 1, 3, 2, 2, 6 };
-    private static int index = 0;
+    static int[] numbers;
+    private static int N = 16;
+    private static Random r = new Random();
+
+    // Переделать предыдущее домашнее задание по потокам на использование Task.
+    // Написать программу. Дан список чисел(одномерный массив). 
+    // Нужно в количестве равном N создать таски, внутри которых будет расчет 
+    // факториалов для каждого числа из заданного списка. То есть параллельно 
+    // пробежаться по списку чисел и распораллелить вычисление факториалов. 
+    // Измерить время выполнения для однопоточной обработки списка(N=1) и для N=4(степень параллелизма) 
+
+    // 1) У тебя количество потоков равно количеству чисел, а задача в другом:
+    // потоков должно быть N, вне зависимости от того, сколько чисел. 
+    // Кроме того, у тебя каждый поток считает только 1 число, а надо, чтобы он 
+    // мог брать пачку чисел и считать несколько 2) Нет расчёта времени выполнения для N = 1 и для N = 4
     static void Main(string[] args)
+    {
+        numbers = Enumerable.Range(1, 20000000).Select(n => r.Next(2, 27)).ToArray();
+        
+        var firstTime = CalculateAllFactorialsByNThreads(N);
+        
+        var secondtTime = CalculateAllFactorialsByNThreads(1);
+
+        if (firstTime > secondtTime)
+            Console.WriteLine($"firstTime медленнее на {firstTime - secondtTime} миллисекунд");
+        
+        else if (firstTime < secondtTime)
+            Console.WriteLine($"secondtTime медленнее на {secondtTime - firstTime} миллисекунд");
+        
+        else
+            Console.WriteLine("одинаково быстрые");
+    }
+
+    private static long CalculateAllFactorialsByNThreads(int n)
     {
         Stopwatch time = new Stopwatch();
         List<Task> tasks = new List<Task>();
-
-        int n = 0;
+        Indexer currIndex = new Indexer();
         time.Start();
-        while (n < numbers.Length)
-        {
-            for (int i = 0; i < 4; i++)
-            {
-                tasks.Add(new Task(GetFactorialAction));
-                tasks.Last().Start();
-            }
 
-            n += 1;
+        for (int i = 0; i < n; i++)
+        {
+            tasks.Add(new Task(() => CalculateAllFactorials(ref currIndex)));
+            tasks.Last().Start();
         }
+
         Task.WaitAll(tasks.ToArray());
         time.Stop();
-        var firstTime = time.ElapsedMilliseconds;
-        
-        int m = 0;
-        time.Start();
-        var task = Task.Factory.StartNew(() =>
-        {
-            while (m < numbers.Length)
-            {
-                GetFactorialAction();
-                m += 1;
-            }
-        });
-        Task.WaitAll(task);
-        time.Stop();
-        var secondtTime = time.ElapsedMilliseconds;
-
-        if (firstTime > secondtTime)
-            Console.WriteLine("firstTime медленнее");
-        if (firstTime < secondtTime)
-            Console.WriteLine("secondtTime медленнее");
-        else
-            Console.WriteLine("одинаково быстрые");
-    
+        return time.ElapsedMilliseconds;
     }
 
-    private static void GetFactorialAction()
+    private static bool TryCalculateOneFactorial(ref Indexer index)
     {
         decimal n = 0;
         lock (_sync)
         {
-            if (index < numbers.Length)
+            if (index.Index < numbers.Length)
             {
-                n = numbers[index];
-                index += 1;
+                n = numbers[index.Index];
+                index.Index += 1;
             }
             else
             {
-                return;
+                return false;
             }
         }
 
-        long factorial = 1;
-        for (int i = 2; i <= n; i++)
-            {
-                factorial *= i;
-            }
-        Console.WriteLine($"Факториал числа {n} равен {factorial}");
+        decimal factorial = 1;
+        for (decimal i = 2; i <= n; i++)
+        {
+            factorial *= i;
+        }
+        // Console.WriteLine($"Факториал числа {n} равен {factorial}");
+        return true;
     }
-    // private static void GetFactorialAction()
-    // {
-    //     decimal n = 0;
-    //     lock (_sync)
-    //     {
-    //         n = numbers[index];
-    //         index++;
-    //     }
-    //
-    //     long factorial = 1;
-    //     for (int i = 2; i <= n; i++)
-    //         {
-    //             factorial = factorial * i;
-    //             Console.WriteLine($"Факториал числа {n} равен {factorial}");
-    //         }
-    // }
-    /// для каждого потока своё число
-    /// есть у нас массив
-    /// к нему обращаемся по индексу
-    /// в каждой таске через += 4 и номеру таски
-    ///
-    /// разделить массив через линки
-    ///
-    /// i = 0 снаружи тасков
-    /// 
+
+    private static void CalculateAllFactorials(ref Indexer index)
+    {
+        while (TryCalculateOneFactorial(ref index));
+    }
 }
+    
