@@ -10,9 +10,9 @@ public class ProductCard
         Items = products;
     }
     
-    public decimal GetTotalSumm()
+    public int GetTotalSumm()
     {
-        decimal summ = 0;
+        int summ = 0;
         foreach (var product in Items)
         {
             summ += product.Price;

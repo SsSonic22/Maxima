@@ -1,10 +1,10 @@
 namespace ConsoleApp1Домашка_от_25._04_линки_в_корзине;
 public class Product
 {
-    public decimal Price { get; }
+    public int Price { get; }
     public string Title { get; }
 
-    public Product(decimal price, string title)
+    public Product(int price, string title)
     {
         Price = price;
         Title = title;

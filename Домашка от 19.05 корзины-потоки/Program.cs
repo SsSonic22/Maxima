@@ -31,10 +31,9 @@ class Program
         var listOfCards = new List<ProductCard>() { card1, card2, card3, card5, card4, card6 };
 
         // var summa = listOfCards.Sum(c => c.GetTotalSumm());
-        // Console.WriteLine($"Сумма {summa}");
+        // Console.WriteLine("Результат однопоточного высчитывания суммы "+ summa);
         
-        decimal wholeSum = 0;
-        decimal sum = 0;
+        int sum = 0;
         
         
         List<AutoResetEvent> flags = new List<AutoResetEvent>();
@@ -44,8 +43,10 @@ class Program
             AutoResetEvent flag = new AutoResetEvent(false);
             var thread = new Thread(j =>
             {
-                wholeSum = card.GetTotalSumm();
-                sum += wholeSum;
+                var wholeSum = card.GetTotalSumm();
+                sum = Interlocked.Add(ref sum, wholeSum);
+                // Console.WriteLine("Current wholesum "+ wholeSum);
+                // Console.WriteLine("Current summ "+ sum);
                 flag.Set();
             });
             Threads.Add(thread);
@@ -55,7 +56,7 @@ class Program
 
         WaitHandle.WaitAll(flags.ToArray(), TimeSpan.FromSeconds(1));
 
-        Console.WriteLine($"Result: {sum}");
+        Console.WriteLine($"Результат многопоточного высчитывания суммы: {sum}");
         
         // // выбрать такие корзины, в которых сумма всех продуктов больше 100
         // var test1 = listOfCards
