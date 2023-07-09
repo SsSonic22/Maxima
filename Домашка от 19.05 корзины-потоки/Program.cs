@@ -30,14 +30,18 @@ class Program
 
         var listOfCards = new List<ProductCard>() { card1, card2, card3, card5, card4, card6 };
 
+        // var summa = listOfCards.Sum(c => c.GetTotalSumm());
+        // Console.WriteLine($"Сумма {summa}");
+        
         decimal wholeSum = 0;
         decimal sum = 0;
         
         
-        AutoResetEvent flag = new AutoResetEvent(false);
+        List<AutoResetEvent> flags = new List<AutoResetEvent>();
         List<Thread> Threads = new List<Thread>();
         foreach (var card in listOfCards)
         {
+            AutoResetEvent flag = new AutoResetEvent(false);
             var thread = new Thread(j =>
             {
                 wholeSum = card.GetTotalSumm();
@@ -46,9 +50,10 @@ class Program
             });
             Threads.Add(thread);
             thread.Start();
+            flags.Add(flag);
         }
 
-        WaitHandle.WaitAll(new[] { flag }, TimeSpan.FromSeconds(1));
+        WaitHandle.WaitAll(flags.ToArray(), TimeSpan.FromSeconds(1));
 
         Console.WriteLine($"Result: {sum}");
         
