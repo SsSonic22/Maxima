@@ -68,6 +68,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTasks", "TestTasks\Test
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Домашка от 26.05 таски", "Домашка от 26.05 таски\Домашка от 26.05 таски.csproj", "{2EEBFD79-B2E5-4C29-B534-42C59169AFF6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Домашка от 30.05", "Домашка от 30.05", "{8428A307-DA4F-4B66-8272-98D17ABDFE7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Домашка от 30.05 на отмену задач", "Домашка от 30.05 на отмену задач\Домашка от 30.05 на отмену задач.csproj", "{30A57F77-09B3-4C7C-B571-F64DD75AFBB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -98,6 +102,7 @@ Global
 		{AD99B7AD-95B1-4257-9957-F718930DBBEC} = {EFA85921-50D9-4F22-9F20-E291A66BB993}
 		{4A0F1D79-104C-40B4-B320-AF92F1A976B4} = {8909B602-61E6-44B6-80E4-0AEE2131D2D7}
 		{2EEBFD79-B2E5-4C29-B534-42C59169AFF6} = {8909B602-61E6-44B6-80E4-0AEE2131D2D7}
+		{30A57F77-09B3-4C7C-B571-F64DD75AFBB1} = {8428A307-DA4F-4B66-8272-98D17ABDFE7F}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{04088642-F0A0-4923-B165-58E5A3BE5EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -196,5 +201,9 @@ Global
 		{2EEBFD79-B2E5-4C29-B534-42C59169AFF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EEBFD79-B2E5-4C29-B534-42C59169AFF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EEBFD79-B2E5-4C29-B534-42C59169AFF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A57F77-09B3-4C7C-B571-F64DD75AFBB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A57F77-09B3-4C7C-B571-F64DD75AFBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A57F77-09B3-4C7C-B571-F64DD75AFBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A57F77-09B3-4C7C-B571-F64DD75AFBB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
